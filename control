@@ -1,0 +1,10 @@
+Package: dynbio
+Version: 1.0
+Section: unknown
+Priority: optional
+Depends: libc6
+Architecture: amd64
+Essential: no
+Installed-Size: 7028
+Maintainer: DomesticMoth
+Description: Update github user bio
