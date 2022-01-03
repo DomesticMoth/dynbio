@@ -16,3 +16,9 @@
 
 # Build dir
 build/
+
+# Package files
+package/
+
+# Deb package
+package.deb
